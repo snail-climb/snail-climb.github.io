@@ -210,10 +210,10 @@ public static void main() {
 对应的HTML代码：`<a href="超链接地址" title="超链接title">超链接显示名</a>`
 
 	**源码**：
-	`[点击跳转至大宁博客](https://blog.csdn.net/weixin_45880773 "超链接标题")`
+	`[点击跳转至作者博客](https://blog.csdn.net/weixin_45880773 "超链接标题")`
 	
 	**效果**：
-	[点击跳转至大宁博客](https://blog.csdn.net/weixin_45880773 "超链接标题")
+	[点击跳转至作者博客](https://blog.csdn.net/weixin_45880773 "超链接标题")
 
 2. 使用尖括号可以更方便地把URL或Email地址变成可点击的链接。
 
