@@ -1,0 +1,21 @@
+{
+  "name": "daning-docs-docsify",
+  "description": "个人博客：我要一步一步往上爬，在最高点乘着叶片往前飞",
+  "version": "1.0.0",
+  "main": "docs/index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/snail-climb/daning-docs-docsify.git"
+  },
+  "keywords": [
+    "个人博客"
+  ],
+  "author": "Forrest",
+  "license": "GPL",
+  "scripts": {
+    "docs:dev": "docsify serve docs"
+  }
+}
